@@ -218,3 +218,9 @@ a:visited {
 .cycling-popup .leaflet-popup-content-wrapper {
   border-left: 5px solid var(--color-brand--1);
 }
+.sidebar .instruction {
+  font-size: 1.2rem;
+  color: white;
+  word-spacing: 0.2rem;
+  letter-spacing: 0.1rem;
+}
